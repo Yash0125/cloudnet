@@ -1,3 +1,59 @@
+# CloudNET 
+
+<h3 align="center"> CloudNET is an video library app.</h3>
+
+## Table of contents
+* [💻 Tech Stack](#tech-stack)
+* [▶️ Demo](#demo)
+* [🎖 Key Features](#key-features)
+* [✍️ My learnings](#my-learning)
+* [🙋‍♂️ About Me](#about-me)
+
+
+<a name="tech-stack"/>
+
+## 💻 Tech Stack
+**Front End:** HTML, CSS , Javascript , React
+**Hosting:** Github, Netlify
+
+<a name="demo"/>
+
+## [Demo](https://cloud-net.netlify.app/)
+![CloudNET](assets/homePage.png)
+![CloudNET](assets/searchPage.png)
+![CloudNET](assets/channelPage.png)
+![CloudNET](assets/playVideo.png)
+
+<a name="key-features"/>
+
+## 🎖 Key Features
+1. See the video thumbnail on the home page.
+2. We can see different categories on the left side and filter accordingly.
+3. Search any topic or any video by name.
+4. Save to watch later and share the video.
+5. Play/pause and change to the next video
+6. See the Channel Page
+
+<a name="my-learning"/>
+
+## ✍️ My learnings
+* How to write clean code
+* How to write sementic HTML
+* Learn How to organize files and folders
+* Impact of colors in websites
+* How to structure layout 
+* How to call API using Axios
+* How to write Material UI
+
+<a name="about-me"/>
+
+## Hi, I'm Yash! 👋
+### About Me
+* My name Yash. I'm Frontend Developer
+### Social 
+[Portfolio](https://yash-kumavat-portfolio-yk.netlify.app/)
+[Linkedin](https://www.linkedin.com/in/yash-kumavat-5172b2235/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
